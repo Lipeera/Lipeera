@@ -24,7 +24,7 @@
   ### Contacts
   
   <div>
-  <a href="https://www.instagram.com/](https://www.instagram.com/filipe_lleandro/">
+  <a href="https://www.instagram.com/filipe_lleandro/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white%22/%3E"/>
   </a>
   <a href="https://www.linkedin.com/in/filipe-leandro-57b579221/">
